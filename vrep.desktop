@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=V-REP
+Icon=/home/levys/.local/share/icons/vrep.png
+Exec=/home/levys/Software/vrep.sh
