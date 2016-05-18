@@ -2,5 +2,5 @@
 Type=Application
 Terminal=false
 Name=V-REP
-Icon=/home/levys/.local/share/icons/vrep.png
-Exec=/home/levys/Software/vrep.sh
+Icon=/home/levy/.local/share/icons/vrep.png
+Exec=/home/levy/bin/vrep.sh
