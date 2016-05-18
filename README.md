@@ -19,6 +19,6 @@ you launch it from the directory in which it was installed.  As shown in this
 
 <li>Put vrep.png in ~/.local/share/icons
 
-<li>Click on the Unity launcher (swirly Ubuntu icon in upper-left of your screen),  
+<li>Click on <b>Search you computer</b> (swirly Ubuntu icon in upper-left of your screen),  
 type V-REP, and drag the icon into the launcher
 </ol>
