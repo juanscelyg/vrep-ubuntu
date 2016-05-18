@@ -5,7 +5,7 @@ Launch the V-REP robot simulator from a docked icon on Ubuntu
 
 I love using the V-REP simulator from Coppelia Robotics, but in Linux they tell
 you launch it from the directory in which it was installed.  As shown in this
-video, I figured out a workouround:
+[video](https://www.youtube.com/watch?v=mFb85PmHLA4), I figured out a workouround:
 
 <ol>
 
