@@ -3,4 +3,4 @@ Type=Application
 Terminal=false
 Name=V-REP
 Icon=/home/levy/.local/share/icons/vrep.png
-Exec=/home/levy/bin/vrep.sh
+Exec=/home/levy//Software/V-REP_PRO_EDU_V3_3_1_64_Linux/vrep.sh

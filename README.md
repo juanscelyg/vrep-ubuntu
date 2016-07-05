@@ -11,9 +11,7 @@ you launch it from the directory in which it was installed.  As shown in this
 
 <li>Download / clone this repository
 
-<li>Edit vrep.sh and vrep.dekstop,changing for your own directory structure
-
-<li>Put vrep.sh in $HOME/bin (or whever you specified in vrep.desktop)
+<li>Edit vrep.dekstop,changing for your own directory structure
 
 <li>Put vrep.desktop in ~/.local/share/applications
 
